@@ -1,0 +1,18 @@
+body {
+  background: lightblue;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+img {
+  height: 300px;
+  width: 450px;
+}
+
